@@ -39,5 +39,5 @@
 
 ---
 
-> *"The stars don’t look bigger, but they do look brighter."*  
-> — Sally Ride
+> *"Life's too short make the most of it"*  
+> — Tom Cassel. aka Syndicate 
