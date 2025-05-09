@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**My name is Ciaran and I am a Games development student from the UK. I also stream over on twitch where I create projects live from GameDev to WebDev.
+My name is Ciaran and I am a Games development student from the UK. I also stream over on twitch where I create projects live from GameDev to WebDev.
 
 - 🔭 I’m currently working on my DREAM space mmo game.
 - 🌱 I’m currently learning Games production and development
