@@ -58,12 +58,12 @@ If you like what I’m building, consider supporting me on [Ko-fi](https://ko-fi
 
 ## 💬 Let’s Connect
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-1e1e1e?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu b3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTUuNTIgN2EzIDMgMCAwIDAtMyAzIDMgMyAwIDAgMCAzLTMgMyAzIDAgMCAwLTItLjggMyAzIDAgMCAw LS4xLjIgMyAzIDAgMCAwLTUuODggMCAzIDMgMCAwIDAtLjEtLjIgMyAzIDAgMCAwLTIuLjggMyAzIDAgMCAwIDMgMyAzIDMgMCAwIDAtMy0zYTIgMiAwIDAgMC0yIDIgMiAyIDAgMCAwIDIgMnYzYTQgNCAwIDAgMCA4IDB2LTNhMiAyIDAgMCAwIDItMiAyIDIgMCAwIDAtMi0yIi8+PC9zdmc+)  
-](https://bsky.app/profile/ciarandev.bsky.social)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/ciarant_dev)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@CiarantDev/)  
+[![Bluesky](https://img.shields.io/badge/Bluesky-1e1e1e?style=flat&logo=data:image/svg+xml;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABxklEQVQ4T6WTv0sDQRiGv5kNxUABmXQSFt/gYiz+DySNCv4K3EAmz2kYJoo1BRS29AooLRRShpIMsENrWJ2AiYBNx4Ssybf8zR57vvZ3Z0ZmZl5jcwV3CJpzXE3yFtYeBvDHoAy4Dp1nE7yBRgA2eED1zRekiUicgA35obGoNPqOl8AYiEArXhw9wN2IYQcoDEId4KTTKReTylbB9wnFyNcSEZgIoih4cPQ3YTObQ0GInr9XMyyJ9h6Zs9OCXtgtCVAE53u1jhkU3+TcsFDuf1dSO79oKHcN2W43U3t60DwzZYLL5e2tRXykEno0Er1beUSsrNsWi1DbDoZhA2sPOoIl2cIpCVuM1+HpTItPBftKJSBuPRFMFbZtvDw8WDHRc0YBJoFFRlY4lGydmcEKxS8nAZfl4K1m8FsGo1Uau3cnFxFEUaBEARut62ObRu7yYFcYhgHOOXoY3z4dgXkAjzvLuAa6+cK4AAAAASUVORK5CYII=)](https://bsky.app/profile/ciarandev.bsky.social)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/ciarant_dev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@CiarantDev/)
+
 📫 **Email:** [support@thistlegames.dev](mailto:support@thistlegames.dev)  
-😄 **Pronouns:** He/Him  
+😄 **Pronouns:** He/Him
 
 ---
 
